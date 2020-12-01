@@ -1,3 +1,5 @@
+package reflect;
+
 /**
  * @program: javalearning
  * @className: MyInterface2

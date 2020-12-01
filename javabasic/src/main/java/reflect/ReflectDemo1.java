@@ -1,3 +1,5 @@
+package reflect;
+
 import cn.hutool.core.util.ArrayUtil;
 
 import java.lang.reflect.Constructor;
@@ -26,7 +28,7 @@ public class ReflectDemo1 {
     public static void getClass1() {
         Class<?> perClazz = null;
         try {
-            perClazz = Class.forName("Person");
+            perClazz = Class.forName("reflect.Person");
             System.out.println(perClazz);
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
