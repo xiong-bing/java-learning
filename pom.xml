@@ -5,13 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>binghsiung</groupId>
-    <artifactId>java learning</artifactId>
+    <artifactId>java_learning</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <!--子模块-->
     <modules>
         <module>javabasic</module>
+        <module>redis</module>
     </modules>
 
 
