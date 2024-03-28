@@ -13,6 +13,8 @@
     <modules>
         <module>javabasic</module>
         <module>redis</module>
+        <module>rocketMQ</module>
+        <module>kafka</module>
     </modules>
 
 
